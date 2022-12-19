@@ -82,6 +82,18 @@
     ]
   },
   {
+    "code": "JU-exs9ol70",
+    "gender": "Male",
+    "date_birth": "1984-07-23",
+    "profession": "Sales Associate",
+    "fav_color": "White",
+    "scores": [
+      0.4,
+      2.47,
+      0.19
+    ]
+  },
+  {
     "code": "BU-4x8n2b1t",
     "gender": "Genderfluid",
     "date_birth": "1969-04-13",
@@ -115,6 +127,18 @@
       4.54,
       0.34,
       1.41
+    ]
+  },
+  {
+    "code": "DV-u1b9bnr3",
+    "gender": "Male",
+    "date_birth": "1999-12-13",
+    "profession": "Systems Administrator I",
+    "fav_color": "Red",
+    "scores": [
+      1.35,
+      3.3,
+      4.41
     ]
   },
   {
@@ -202,6 +226,18 @@
     ]
   },
   {
+    "code": "WD-udon3qos",
+    "gender": "Male",
+    "date_birth": "1990-02-05",
+    "profession": "Editor",
+    "fav_color": "Blue",
+    "scores": [
+      2.69,
+      0.99,
+      4.34
+    ]
+  },
+  {
     "code": "OY-7t4q0g0v",
     "gender": "Male",
     "date_birth": "1974-09-21",
@@ -235,6 +271,18 @@
       3.33,
       1.1,
       1.18
+    ]
+  },
+  {
+    "code": "WB-wfeedqzr",
+    "gender": "Female",
+    "date_birth": "1997-06-26",
+    "profession": "Editor",
+    "fav_color": "Blue",
+    "scores": [
+      1.79,
+      1.15,
+      2.28
     ]
   },
   {
